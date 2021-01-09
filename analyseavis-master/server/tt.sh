@@ -1,0 +1,1 @@
+echo "L'entrée est étroite" | tree-tagger-french
